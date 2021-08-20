@@ -1,0 +1,18 @@
+.SearchBar{
+    max-width: max-content;
+    height: 100px;
+    margin: 1px auto ;
+    margin-bottom: 20px;
+    margin-top: 0px;
+    
+}
+
+.appwidth{
+	width: 400px;
+}
+@media(max-width: 470px){
+	.appwidth{
+	width:auto;
+}
+}
+
